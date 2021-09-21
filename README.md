@@ -1,1 +1,1 @@
-# Face-Detection-Attandance-System
+# Face-Recognition-Attandance-System
