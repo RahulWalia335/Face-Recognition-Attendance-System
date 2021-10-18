@@ -436,7 +436,7 @@ class Student:
         self.var_address.set("")
         self.var_dob.set("")
         self.var_teachername.set("")
-        self.var_rollno.set("")
+        self.var_radio1.set("")
 
 
     #===============Generate Dataset/Take Photos==============
